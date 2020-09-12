@@ -1,6 +1,6 @@
 # pandas-challenge
-pandas_hw
-## Option 1: Heroes of Pymoli
+pandas_hw HeroesOfPymoli.ipynb
+## Option 1: Heroes of Pymoli in 
 
 Took what we took in class and created a dataframe for every table to displat an output.
 
